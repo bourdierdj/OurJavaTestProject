@@ -2,6 +2,8 @@ package com.neotech.review01;
 
 import java.util.Scanner;
 
+//test **
+
 public class NestedIfRichBoy {
 	// If you are a boy
 	// If you are rich -- Buy a Ferrari

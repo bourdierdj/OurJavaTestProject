@@ -2,6 +2,8 @@ package com.neotech.review01;
 
 import java.util.Scanner;
 
+//this is a change *
+
 public class Calculator {
 	// Ask the user to enter 2 numbers
 	// Ask the user for the operator (+,-,*,/)
