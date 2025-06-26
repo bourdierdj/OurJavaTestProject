@@ -1,6 +1,6 @@
 package com.neotech.review01;
 
-import java.util.Scanner;
+import java.util.Scanner;//some more info*
 
 public class LogicalOperators {
 	// Ask the user to enter the age
